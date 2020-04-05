@@ -1,0 +1,26 @@
+{
+  "name": "grabber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "abstract-syntax-tree": "^2.5.0",
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "html-inline": "^1.2.0",
+    "inliner": "^1.13.1",
+    "node-html-parser": "^1.2.13",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
+    "string.prototype.matchall": "^4.0.2",
+    "unidecode": "^0.1.8"
+  },
+  "devDependencies": {
+    "google-image-downloader": "0.0.8"
+  }
+}
